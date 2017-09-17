@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gestfestival.jhipster",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.8.2",
+    "baseName": "gestfestival",
+    "packageName": "com.gestfestival.jhipster",
+    "packageFolder": "com/gestfestival/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": true,
+    "enableSwaggerCodegen": false,
+    "rememberMeKey": "03332e44235c0a94f8c980428067094d3e95b728",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "applicationType": "monolith",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-bootstrap-material-design",
+        "version": "3.5.1"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "gl",
+      "es"
+    ]
+  }
+}
